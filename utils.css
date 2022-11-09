@@ -1,0 +1,15 @@
+.text-center{
+    text-align: center;
+  }
+  .bgred{
+    background-color: blue;
+  }
+  .mxauto{
+    text-align: center;
+  }
+  .flex{
+    display: flex;
+  }
+  .flex_col{
+    flex-direction: column;
+  }

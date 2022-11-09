@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Rowdies&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Libre Baskerville', serif;
+
+}
+.button{
+  padding:20px;
+  margin: 0 3px;
+  width: 66px;
+  font-weight:bold;
+  border:2px solid black ;
+  border-radius: 50%;
+  cursor:pointer;
+  
+
+}
+.row{
+  margin: 6px 0px;
+}
+.row input{
+  font-size: 19px;
+  width:250px;
+  margin: 0;
+  padding: 10px 22px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
